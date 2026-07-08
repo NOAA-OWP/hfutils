@@ -35,6 +35,8 @@ You can install the development version of `hfutils` from [GitHub](https://githu
 ``` r
 # install.packages("remotes")
 remotes::install_github("lynker-spatial/hfutils")
+or
+remotes::install_github("NOAA-OWP/hfutils")
 ```
 
 ```{r,message=FALSE}
